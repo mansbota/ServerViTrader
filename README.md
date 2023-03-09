@@ -1,2 +1,2 @@
 # ServerViTrader
-ViTrader app server.
+ViTrader Application Server
